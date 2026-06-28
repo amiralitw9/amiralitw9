@@ -9,10 +9,10 @@
 ### 🎓 Education
 
 * **Sharif University of Technology** | Tehran, Iran
-  * *B.Sc. in Electrical Engineering* (2023 – Present) --- **GPA: 17.89/20**
+  * *B.Sc. in Electrical Engineering* (2023 – Present)
   * *Minor in Economics* (2025 – Present)
 * **Kamal High School** | Tehran, Iran
-  * *Diploma in Mathematics and Physics* (2017 – 2023) --- **GPA: 19.68/20**
+  * *Diploma in Mathematics and Physics* (2017 – 2023)
 
 ---
 
