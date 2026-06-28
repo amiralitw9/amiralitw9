@@ -31,12 +31,4 @@
 * 🎮 **[Object-Oriented Programming](https://github.com/amiralitw9/EESUT_Object_Oriented_Programming_14022)** (2024)
   * *"City Wars" Game Development:* A strategic Java game implementing core OOP principles, GUI, and design patterns.
 * 🕹️ **[Fundamentals of Programming](https://github.com/amiralitw9/EESUT_Fundamentals_of_Programming_14021)** (2023)
-  * *"Bouncing Ball" Game Development:* A classic 2D bouncing ball game with physics approximations in C++.
-
----
-
-### 🏫 Teaching Experiences
-
-* ⚡ **Lead Project Teaching Assistant** | Signals & Systems --- *Dr. Behroozi (Fall 2025)*
-* 💡 **Head Project Designer** | Fundamentals of Electrical Engineering I --- *Dr. Fazeli (Spring 2026)*
-* 🔌 **Teaching Assistant & Lab TA** | Electrical Circuits & Lab --- *Dr. Alavi / Dr. Shamsollahi (2025 - 2026)*
+  * *"Bouncing Ball" Game Development:* A classic 2D bouncing ball game with physics approximations in C++
